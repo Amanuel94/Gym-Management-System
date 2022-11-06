@@ -1,1 +1,4 @@
 # Gym-Management-System
+After you have cloned/downloaded the project, add the <code>j-calender1-4.jar</code> file from <code> /cal/lib </code> and the <code>mysql-connector-j-8.0.31.jar</code> file from <code> /mysql-connector-j-8.0.31 </code>. After that, import the <code>sql</code> file to your machine open the project and open the <code> DBConnection.java </code> file and replace the value of <code> user</code> and <code> pass</code>  with your database username and password respectively and it should run. The username and password for login.java are <code>'Admin'</code> and <code>'1234'</code> respectively.
+
+This is my first project in software development that I made with almost 0 experience in software engineering. It is more likely that the code contains some bugs and needs some fixes. If you are to use this project for your purposes and you find anything that needs fixes <a href="mailto:amanueltewodros94@gmail.com">let me know</a>.
